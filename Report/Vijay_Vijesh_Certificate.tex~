@@ -1,0 +1,21 @@
+\begin{center}
+
+\vspace{15in}
+
+\includegraphics[width=0.3\textwidth]{./logo}\\[2cm]    
+\includegraphics[width=0.3\textwidth]{./certificate-text.png}\\[2cm]
+\normalfont
+\rmfamily{\Large{This is to certify that Vijay Mahantesh SM (1PI09CS118) and Vijesh M (1PI09CS119) have satisfactorily completed the Special Topic Project prescribed by PES Institute of Technology (Autonomous Institute under VTU) in the year 2012 (January - May).}}\\[4cm]
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Signature of Guide}\\
+Prof. Chidambara K
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Signature of HOD} \\
+Prof. Nitin V Pujari 
+\end{flushright}
+\end{minipage}
+\end{center}

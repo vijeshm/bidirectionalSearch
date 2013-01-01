@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: Main.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--entry type for "crespo02" isn't style-file defined
+--line 1040 of file references.bib
+Warning--there's a number but no series in sudarshan11
+You've used 17 entries,
+            2118 wiz_defined-function locations,
+            602 strings with 6351 characters,
+and the built_in function-call counts, 5809 in all, are:
+= -- 585
+> -- 228
+< -- 6
++ -- 93
+- -- 74
+* -- 380
+:= -- 938
+add.period$ -- 54
+call.type$ -- 17
+change.case$ -- 87
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 243
+empty$ -- 490
+format.name$ -- 74
+if$ -- 1250
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 17
+newline$ -- 87
+num.names$ -- 34
+pop$ -- 93
+preamble$ -- 1
+purify$ -- 71
+quote$ -- 0
+skip$ -- 174
+stack$ -- 0
+substring$ -- 371
+swap$ -- 62
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 66
+warning$ -- 1
+while$ -- 60
+width$ -- 19
+write$ -- 193
+(There were 2 warnings)

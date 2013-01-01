@@ -1,0 +1,15 @@
+import pickle
+import networkx as nx
+import matplotlib.pyplot as plt
+
+fin = open('gnutella.graph')
+string = fin.read()
+G = pickle.loads(string)
+fin.close()
+
+hist = nx.degree_histogram(G)
+plt.plot(hist)
+plt.title('Degree Distribution for the Gnutella Network under consideration')
+plt.xlabel('Degree')
+plt.ylabel('Frequency')
+plt.show()

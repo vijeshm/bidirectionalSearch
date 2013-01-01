@@ -1,0 +1,32 @@
+Measure of efficiency:
+	1 / (time * (actual path/shortest path))
+		Say that it is a trivial measure
+	Say that time is an important factor - show graph for varying number of nodes
+	Say that the ratio (actual path/shortest path) - show graph for varying number of nodes.
+
+1. Behavior on a synthetic Scale-Free Network (BA Model)
+	Run the code on the spot and show the demo.
+
+2. Behavior on a Real World Networks
+	Run the code on the gnutella network and show the demo.
+	Induced subgraph is taken into consideration
+
+Issues involved:
+1. Parallelization
+	- Syncing Problems
+2. One Way Adamic - cycle handling
+	Adamic uses the choice of the neighbor with the next highest degree
+	but we pick it randomly to reduce the cost of calculation.
+		but this may again lead to cycles. in such a case, take 2 hops. this causes a cycle. Now, remove the cycle.
+		After taking 2 hops, if it again leads to a cycle, then restart.
+3. Performance Optimizations - Flagging technique instead of linear search
+
+perform the same for erdos renyi and show that it fails.
+
+Explain the problems and tell how we're gonna solve them.
+
+Show that we've tried parallelizing the code.
+
+Say that we're gonna write a paper on it during this summer. Say that it is a research topic and it never ends.
+
+

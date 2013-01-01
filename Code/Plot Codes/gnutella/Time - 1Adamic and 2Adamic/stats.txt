@@ -1,0 +1,2 @@
+The ratio of the time intervals taken to perform One-way Adamic walk and Two-way Adamic walk is 524.062444519
+Hence, Two-way Adamic walk is faster than One-way Adamic walk by a factor of 0.00190816955204

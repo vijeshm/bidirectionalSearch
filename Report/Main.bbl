@@ -1,0 +1,98 @@
+\begin{thebibliography}{10}
+
+\bibitem{adamic05}
+L.~A. Adamic and E.~Adar.
+\newblock How to search a social network.
+\newblock {\em Social Networks}, 27:2005, 2005.
+
+\bibitem{adamic02}
+L.~A. Adamic, R.~M. Lukose, and B.~A. Huberman.
+\newblock Local search in unstructured networks.
+\newblock In {\em Handbook of Graphs and Networks}, pages 295--317. Wiley-VCH,
+  2003.
+
+\bibitem{adamic01}
+L.~A. Adamic, R.~M. Lukose, A.~R. Puniyani, and B.~A. Huberman.
+\newblock Search in power-law networks.
+\newblock {\em Physical Review E}, 64(4):046135+, September 2001.
+
+\bibitem{crespo02}
+A.~Crespo and H.~Garcia-molina.
+\newblock Routing indices for peer-to-peer systems, 2002.
+
+\bibitem{fraigniaud07}
+P.~Fraigniaud.
+\newblock Small worlds as navigable augmented networks: model, analysis, and
+  validation.
+\newblock In {\em Proceedings of the 15th annual European conference on
+  Algorithms}, ESA'07, pages 2--11, Berlin, Heidelberg, 2007. Springer-Verlag.
+
+\bibitem{gavoille99}
+C.~Gavoille.
+\newblock A survey on interval routing.
+\newblock {\em Theoretical Computer Science}, 245:785--796, 1999.
+
+\bibitem{gavoille01}
+C.~Gavoille.
+\newblock Routing in distributed networks: overview and open problems.
+\newblock {\em SIGACT News}, 32:36--52, March 2001.
+
+\bibitem{giordano01}
+S.~Giordano, I.~Stojmenovic, and L.~Blazevic.
+\newblock Position based routing algorithms for ad hoc networks: A taxonomy.
+\newblock In {\em Ad Hoc Wireless Networking}, pages 103--136. Kluwer, 2001.
+
+\bibitem{sudarshan11}
+Sudarshan Iyengar, Nina Zweig, Abhiram Natarajan, and Veni Madhavan.
+\newblock A network analysis approach to understand human-wayfinding problem.
+\newblock In {\em CogSci 2011 Proceedings}, number~33, pages 2836--2841, July
+  2011.
+
+\bibitem{kim02}
+B.~J. Kim, C.~N. Yoon, S.~K. Han, and H.~Jeong.
+\newblock Path finding strategies in scale-free networks.
+\newblock {\em Phys Rev E Stat Nonlin Soft Matter Phys}, 65(2 Pt 2), February
+  2002.
+
+\bibitem{kleinberg-2-00}
+J.~Kleinberg.
+\newblock {Navigation in a small world}.
+\newblock {\em Nature}, 406:845, 2000.
+
+\bibitem{kleinberg06}
+J.~Kleinberg.
+\newblock {Complex Networks and Decentralized Search Algorithms}.
+\newblock In {\em In Proceedings of the International Congress of
+  Mathematicians (ICM}, 2006.
+
+\bibitem{kleinberg-1-00}
+Jon Kleinberg.
+\newblock {The Small-World Phenomenon: An Algorithmic Perspective}.
+\newblock In {\em Proceedings of the 32nd ACM Symposium on Theory of
+  Computing}, 2000.
+
+\bibitem{nowell05}
+D.~Liben-Nowell, J.~Novak, R.~Kumar, P.~Raghavan, and A.~Tomkins.
+\newblock Geographic routing in social networks.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 102(33):11623--11628, August 2005.
+
+\bibitem{milgram67}
+S.~Milgram.
+\newblock {The Small World Problem}.
+\newblock {\em Psychology Today}, 1:61--67, 1967.
+
+\bibitem{peleg00}
+D.~Peleg.
+\newblock {\em Distributed computing: a locality-sensitive approach}.
+\newblock Society for Industrial and Applied Mathematics, Philadelphia, PA,
+  USA, 2000.
+
+\bibitem{thorup01}
+M.~Thorup and U.~Zwick.
+\newblock Compact routing schemes.
+\newblock In {\em Proceedings of the thirteenth annual ACM symposium on
+  Parallel algorithms and architectures}, SPAA '01, pages 1--10, New York, NY,
+  USA, 2001. ACM.
+
+\end{thebibliography}
